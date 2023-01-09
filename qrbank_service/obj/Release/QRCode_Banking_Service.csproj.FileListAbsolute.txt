@@ -1,0 +1,7 @@
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\bin\QRCode_Banking_Service.dll.config
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\bin\QRCode_Banking_Service.dll
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\bin\QRCode_Banking_Service.pdb
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\obj\Release\QRCode_Banking_Service.csprojAssemblyReference.cache
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\obj\Release\QRCode_Banking_Service.csproj.CoreCompileInputs.cache
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\obj\Release\QRCode_Banking_Service.dll
+F:\Project_2022_2023\Android_\QR_Banking\qrbank_service\obj\Release\QRCode_Banking_Service.pdb
